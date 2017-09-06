@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="eureka_client" />
+        <module name="eureka_server" />
+        <module name="service_feign" />
+        <module name="service_ribbon" />
+        <module name="spring_cloud_test" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="demo" target="1.8" />
+      <module name="eureka_client" target="1.8" />
+      <module name="eureka_server" target="1.8" />
+      <module name="service_feign" target="1.8" />
+      <module name="service_ribbon" target="1.8" />
+      <module name="spring_cloud_test" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
