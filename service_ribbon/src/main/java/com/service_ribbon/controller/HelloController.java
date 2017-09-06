@@ -15,6 +15,6 @@ public class HelloController {
 
     @RequestMapping(value = "/hello")
     public String sayHello(String name){
-        return helloService.syaHello(name);
+        return helloService.sayHello(name);
     }
 }
