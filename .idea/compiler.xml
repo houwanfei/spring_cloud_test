@@ -10,6 +10,7 @@
         <module name="eureka_server" />
         <module name="service_feign" />
         <module name="service_ribbon" />
+        <module name="service_zuul" />
         <module name="spring_cloud_test" />
       </profile>
     </annotationProcessing>
@@ -19,6 +20,7 @@
       <module name="eureka_server" target="1.8" />
       <module name="service_feign" target="1.8" />
       <module name="service_ribbon" target="1.8" />
+      <module name="service_zuul" target="1.8" />
       <module name="spring_cloud_test" target="1.5" />
     </bytecodeTargetLevel>
   </component>
