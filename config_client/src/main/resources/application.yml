@@ -1,0 +1,13 @@
+server:
+  port: 8881
+spring:
+  application:
+    name: config-client
+  cloud:
+    config:
+      label: master
+      profile: dev
+      uri: http://localhost:8888/
+  rabbitmq:
+    host: 47.92.24.41
+    port: 5672
