@@ -10,6 +10,9 @@
         <option value="$PROJECT_DIR$/service_ribbon/pom.xml" />
         <option value="$PROJECT_DIR$/service_zuul/pom.xml" />
         <option value="$PROJECT_DIR$/config_server/pom.xml" />
+        <option value="$PROJECT_DIR$/config_client/pom.xml" />
+        <option value="$PROJECT_DIR$/server_zipkin/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka_miya/pom.xml" />
       </list>
     </option>
   </component>

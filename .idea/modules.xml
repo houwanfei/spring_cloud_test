@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/config_client/config_client.iml" filepath="$PROJECT_DIR$/config_client/config_client.iml" />
       <module fileurl="file://$PROJECT_DIR$/config_server/config_server.iml" filepath="$PROJECT_DIR$/config_server/config_server.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka_client/eureka_client.iml" filepath="$PROJECT_DIR$/eureka_client/eureka_client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka_miya/eureka_miya.iml" filepath="$PROJECT_DIR$/eureka_miya/eureka_miya.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka_server/eureka_server.iml" filepath="$PROJECT_DIR$/eureka_server/eureka_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/server_zipkin/server_zipkin.iml" filepath="$PROJECT_DIR$/server_zipkin/server_zipkin.iml" />
       <module fileurl="file://$PROJECT_DIR$/service_feign/service_feign.iml" filepath="$PROJECT_DIR$/service_feign/service_feign.iml" />
       <module fileurl="file://$PROJECT_DIR$/service_ribbon/service_ribbon.iml" filepath="$PROJECT_DIR$/service_ribbon/service_ribbon.iml" />
       <module fileurl="file://$PROJECT_DIR$/service_zuul/service_zuul.iml" filepath="$PROJECT_DIR$/service_zuul/service_zuul.iml" />
