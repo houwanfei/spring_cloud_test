@@ -11,7 +11,6 @@
       <module fileurl="file://$PROJECT_DIR$/service_feign/service_feign.iml" filepath="$PROJECT_DIR$/service_feign/service_feign.iml" />
       <module fileurl="file://$PROJECT_DIR$/service_ribbon/service_ribbon.iml" filepath="$PROJECT_DIR$/service_ribbon/service_ribbon.iml" />
       <module fileurl="file://$PROJECT_DIR$/service_zuul/service_zuul.iml" filepath="$PROJECT_DIR$/service_zuul/service_zuul.iml" />
-      <module fileurl="file://$PROJECT_DIR$/service_zuul/service_zuul.iml" filepath="$PROJECT_DIR$/service_zuul/service_zuul.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring_cloud_test.iml" filepath="$PROJECT_DIR$/spring_cloud_test.iml" />
     </modules>
   </component>
